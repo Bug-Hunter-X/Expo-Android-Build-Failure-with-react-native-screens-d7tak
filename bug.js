@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI to build an Android app and involves the `react-native-screens` library.  The error message isn't always consistent but often points to issues with native modules or linking.  The build process fails, preventing a successful APK generation.  A common symptom is a failure during the `gradlew assembleRelease` step.
